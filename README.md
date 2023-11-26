@@ -1,2 +1,1 @@
-# Base_repo
-This is a base repository  i can use to start any project 
+#### Complete Deep Learning Project implementation using MLflow and DVC with CICD deplyment on AWS
