@@ -33,3 +33,9 @@ export MLFLOW_TRACKING_URI=< your MLFLOW_TRACKING_URI >
 export MLFLOW_TRACKING_USERNAME=< your MLFLOW_TRACKING_USERNAME > 
 
 export MLFLOW_TRACKING_PASSWORD=< your MLFLOW_TRACKING_PASSWORD>
+
+###  DVC  commands 
+
+dvc init
+dvc repro
+dvc dag
