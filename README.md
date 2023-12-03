@@ -120,7 +120,7 @@ Enter the name of runner:self-hosted
 
 
 
-# 7. Setup github secrets:
+# 7. Setup github secrets :
 
     AWS_ACCESS_KEY_ID=
 
