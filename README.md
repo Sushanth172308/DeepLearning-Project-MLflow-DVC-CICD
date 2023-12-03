@@ -39,3 +39,8 @@ export MLFLOW_TRACKING_PASSWORD=< your MLFLOW_TRACKING_PASSWORD>
 dvc init
 dvc repro
 dvc dag
+
+### image encode and decode reference:
+
+https://base64.guru/converter/encode/image
+https://base64.guru/converter/decode/image
