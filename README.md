@@ -107,11 +107,11 @@ https://base64.guru/converter/decode/image
 
 	inside github runners find following commands, run them one by one aws EC3 cli:
 
-	Download-- run all those commands
+	Download--   run all those commands
 
 
 
-Configure-- run all those commands
+Configure--  run all those commands
 # Create the runner and start the configuration experience
 $ ./config.sh --url https://github.com/Sushanth172308/DeepLearning-Project-MLflow-DVC-CICD --token <your token> # Last step, run it!
 $ ./run.sh
