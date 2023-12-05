@@ -113,9 +113,8 @@ https://base64.guru/converter/decode/image
 
 Configure--  run all those commands
 # Create the runner and start the configuration experience
-$ ./config.sh --url https://github.com/Sushanth172308/DeepLearning-Project-MLflow-DVC-CICD --token <your token> # Last step, run it!
-$ ./run.sh
 
+# For EC2 machine.
 Enter the name of runner:self-hosted
 
 
