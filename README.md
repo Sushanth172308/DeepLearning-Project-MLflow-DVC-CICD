@@ -1,4 +1,12 @@
 #### Complete Deep Learning Project implementation using MLflow and DVC with CICD deplyment on AWS
+some screenshots of the project:
+
+<img src="images/3.png" alt="workflow" width="70%">
+<img src="images/1.png" alt="workflow"width="70%">
+<img src="images/5.png" alt="workflow" width="70%">
+<img src="images/2.png" alt="workflow" width="70%">
+<img src="images/4.png" alt="workflow" width="70%">
+<img src="images/6.png" alt="workflow" width="70%">
 
 # workflow
 
